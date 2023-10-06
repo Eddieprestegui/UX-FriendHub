@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+FriendsHub is a location-sharing platform designed to facilitate a more detailed and controlled sharing of location information among family, friends, and acquaintances. This report outlines the research methods used to understand user needs, competitor landscape, and initial designs for the location-sharing features of FriendsHub.
 
 ## Methods
 
