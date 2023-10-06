@@ -1,22 +1,16 @@
+# Phase I: Analyzing Users, Competitors, and Initial Designs
 
 ## Introduction
-# Phase I: Analyzing Users, Competitors, and Initial Designs <br>
->
-## ***FriendsHub***
->
-**Dhruv Bahl, Abraham Hernandez, Eddie Prestegui** <br>
 
-
-
+FriendsHub is a location-sharing platform designed to facilitate a more detailed and controlled sharing of location information among family, friends, and acquaintances. This report outlines the research methods used to understand user needs, competitor landscape, and initial designs for the location-sharing features of FriendsHub.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!! During our research for our competitive analysis we diagnosed two main competitors: Snapchat & Life360. The main weakness that we discovered within SnapChat is that a lot of users interact with bots and unneccessary content. A weakness with Life360 is that users can't customize the location radius with other users, so if a user doesn't want to share their exact location with another user, it's not possible.     
 
 ## Findings
-* Users appreciate the idea of controlling the level of detail shared, suggesting a need for adjustable zoom levels.
-* Users value context-aware sharing, where the platform suggests appropriate times and groups for location sharing.
-* Users expect a friend list to view the added people in their account 
+
+!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
 ## Conclusions
 
