@@ -7,11 +7,8 @@
 **Dhruv Bahl, Abraham Hernandez, Eddie Prestegui** <br>
 
 
-
-
 ## Methods
-
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+For our competitive analysis we came up with two main competitors: Snapchat and Life360. The main weakness we found for Snapchat was that users interact with an extensive amount of bots and unnecessary content. With Life360 the main weakness we discovered was that users don't have full control of their location radius, so if a user doesn't want another user to check their specific location, it is not possible. Our user goal was to design a minimalistic, easy-to-learn application that allows user to share their location and status with other users.  It also has groups that users could join and interact with other users based on hobbies, interests, etc.
 
 ## Findings
 * Users appreciate the idea of controlling the level of detail shared, suggesting a need for adjustable zoom levels.
