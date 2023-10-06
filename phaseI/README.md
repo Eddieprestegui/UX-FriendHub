@@ -1,8 +1,8 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 ## Introduction
-##Phase I: Analyzing Users, Competitors, and Initial Designs
-Dhruv Bahl, Abraham Hernandez, Eddie Prestegui
+##Phase I: Analyzing Users, Competitors, and Initial Designs <br>
+**Dhruv Bahl, Abraham Hernandez, Eddie Prestegui**
 *FriendsHub*
 
 
