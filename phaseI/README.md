@@ -16,9 +16,13 @@ For our competitive analysis we came up with two main competitors: Snapchat and 
 * Users expect a friend list to view the added people in their account 
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+* Develop features that strike a balance between practical planning (Events and Plans) and emotional bonding (Friendship Score, shared experiences).
+* Emphasize robust privacy controls and communicate clearly with users about data security measures.
+* Address the need for both in-person and virtual interaction features, catering to users with diverse social preferences. Meaningful Connection to build features that foster deeper connections, going beyond the superficial interactions found on mainstream social media.
 
 ## Caveats
+### Competitive and Heuristic Analysis
+The competitive analysis is based on a select group of competitors and might not encompass the full market landscape. Heuristic evaluations rely on expert judgment; actual user testing may reveal additional insights and perspectives. The absence of user data limits the depth of understanding regarding specific user preferences and behaviors.
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+### Reproducibility
+The research methods assume a standardized context and may need adjustments based on unique project requirements.External factors, such as evolving technology standards, may impact the applicability of these methods over time. The findings are based on the available information and may require validation as the industry and user expectations evolve.
