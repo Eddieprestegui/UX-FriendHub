@@ -5,12 +5,12 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 ## UX Team Members
 
-* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)**
--  Research methods
--  Developing the wireframe
--  Working on Personas 
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)** -  Research methods, Developing the wireframe, Working on Personas and skecthes
+> 
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+>
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+>
 
 # User-Centered Design Artifacts
  
