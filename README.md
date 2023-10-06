@@ -1,12 +1,11 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# FriendsHub
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+FriendHub seeks to solve the challenge of maintaining meaningful friendships in a digital age crowded with superficial connections. It aims to provide a dedicated platform to nurture and strengthen friendships through features like the Friendship Dashboard, Events and Plans, and a unique Friendship Score algorithm.
 
 ## UX Team Members
 
-* **https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit**
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)**
 -  Research methods
 -  Developing the wireframe
 -  Working on Personas 
