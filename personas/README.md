@@ -1,5 +1,4 @@
 # Personas
-x06.pdf/
-
+personas/x06.pdf
 
 # Scenarios
