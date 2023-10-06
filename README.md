@@ -6,7 +6,10 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit**
+-  Research methods
+-  Developing the wireframe
+-  Working on Personas 
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
@@ -23,10 +26,17 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
+
+* Analyzed competitors, focusing on Life360, to identify strengths and weaknesses in the family safety and location-sharing domain.
+
+* Derived key insights: Users seek a balance between practical planning and emotional bonding, value privacy controls, and desire features for both in-person and virtual interactions.
+
+* Discovered a market gap for an app that combines practicality with emotional connections in the friendship space.
+
+* Recommendations include developing balanced features, robust privacy controls, and holistic socialization options.
+
+* Significance: Insights guide the user-centric design of FriendHub, ensuring it addresses users' evolving needs and stands out in the friendship app landscape.
 
 [Full phase I report](phaseI/)
 
